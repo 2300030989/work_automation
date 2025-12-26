@@ -1,7 +1,7 @@
 import os
 
 ASSISTANT_NAME = "jarvis"
-LLM_KEY = "AIzaSyCQuH5H9YGXAmBlZLRAcw9N3xjMVGrXXm0"  # Google Gemini AI API key
+LLM_KEY = ""  # Google Gemini AI API key
 
 # Default speech recognition language (Google recognizer language codes)
 # Examples: 'en-US', 'en-GB', 'hi-IN', 'te-IN', 'es-ES', 'fr-FR'
